@@ -1,7 +1,7 @@
 
 # Agency Landing Page
 
-A sleek, responsive, and minimal agency landing page built with **React.js** and styled using the **shadcn UI** component library. This project offers a modern and elegant interface, ensuring an engaging user experience across all devices.
+A sleek, responsive, and minimal agency landing page built with **Typescript** and styled using the **shadcn UI** component library. This project offers a modern and elegant interface, ensuring an engaging user experience across all devices.
 
 ---
 
